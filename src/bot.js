@@ -6,7 +6,7 @@ import { stripIndents } from 'common-tags';
 import version from './version';
 
 export default new Bot({
-	name: 'RPBot',
+	name: 'RPRepository Bot',
 	version: version,
 	about: stripIndents`
 		**RPBot** v${version} created by Schuyler Cebulskie (Gawdl3y).
